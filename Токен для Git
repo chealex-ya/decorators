@@ -1,0 +1,13 @@
+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
+
+git add -A
+git commit -m "first commit"
+git branch -M main
+git push --set-upstream https://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@github.com/chealex-ya/Course-work-1-Python-basic.git main
+
+Токен для полигона: AQAAAAAWfuB9AADLW-5o7_9o7UlHnZ3wMj8e8EU
+begemot_korovin
+pavelprocenko
+мой id в VK: 1741661
+
+хорошая статья для работы с я.диском: https://socialdef.info/ispolzovanie-api-yandeks-diska-na-python/
